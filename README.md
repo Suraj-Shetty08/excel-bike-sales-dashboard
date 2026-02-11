@@ -1,9 +1,15 @@
-# 🚴 Bike Sales Dashboard (Excel)
+# 🚴 Bike Sales Analysis Dashboard | Excel
 
 ## 📌 Project Overview
 This project is an interactive Excel dashboard analyzing bike purchase behavior across different customer segments.
 
 The dashboard provides insights into how income, age, region, education, and commute distance impact bike purchases.
+
+## 📈 Key Metrics Analyzed
+- Average Income by Purchase Status
+- Purchase Rate by Age Group
+- Purchase Behavior by Commute Distance
+- Regional Sales Trends
 
 ## 🛠 Tools & Features Used
 - Pivot Tables
@@ -28,3 +34,5 @@ The dashboard provides insights into how income, age, region, education, and com
 - Education
 
 Users can dynamically filter the dashboard to explore trends.
+
+🔗 Built as part of my Data Analytics portfolio to demonstrate Excel dashboarding and data storytelling skills.
