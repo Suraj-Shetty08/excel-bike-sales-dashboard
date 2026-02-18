@@ -22,10 +22,11 @@ The dashboard provides insights into how income, age, region, education, and com
 
 ## 📊 Key Business Insights
 
-✔ Customers with higher average income show greater bike purchase rates  
-✔ Middle-aged customers are the most active buyers  
-✔ Commute distance influences buying behavior  
-✔ Regional differences impact purchase trends  
+✔ Customers with higher average income show greater bike purchase rates
+✔ Middle-aged customers are the most active buyers
+✔ Commute distance influences buying behavior 
+✔ Regional differences impact purchase trends
+✔ Home ownership is correlated with bike purchases across age groups
 
 
 ## 🎯 Interactive Filters
@@ -36,3 +37,8 @@ The dashboard provides insights into how income, age, region, education, and com
 Users can dynamically filter the dashboard to explore trends.
 
 🔗 Built as part of my Data Analytics portfolio to demonstrate Excel dashboarding and data storytelling skills.
+
+
+## Update
+- Improved dashboard layout
+- Converted key metrics to percentage based analysis
